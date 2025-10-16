@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: tutorial
+email:
+  from: noreply@myapp.com
+  smtp:
+    host: smtp.gmail.com
+    port: 587
+    username: myapp@gmail.com
+    password: secret123

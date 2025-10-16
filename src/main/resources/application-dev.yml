@@ -1,0 +1,7 @@
+email:
+  from: dev@myapp.com
+  smtp:
+    host: localhost
+    port: 1025
+    username: devuser
+    password: devpass
