@@ -4,7 +4,7 @@ A simple demonstration of Spring Boot's `@ConfigurationProperties` pattern - tra
 
 ## 📖 Article
 
-Read the complete tutorial on Medium: **[From @Value Chaos to @ConfigurationProperties Clarity](#)** *(add your Medium article link here)*
+Read the complete tutorial on Medium: **[From @Value Chaos to @ConfigurationProperties Clarity](https://medium.com/@elmehdi.kzadri_97626/from-value-chaos-to-configurationproperties-clarity-a-spring-boot-guide-7099c011d8db)** *(add your Medium article link here)*
 
 ## 🎯 What This Shows
 
@@ -50,7 +50,7 @@ You get this:
 emailProperties.getSmtp().getHost()
 ```
 
-Type-safe, validated, and testable. See the [Medium article](#) for details.
+Type-safe, validated, and testable. See the [Medium article](https://medium.com/@elmehdi.kzadri_97626/from-value-chaos-to-configurationproperties-clarity-a-spring-boot-guide-7099c011d8db) for details.
 
 ---
 
